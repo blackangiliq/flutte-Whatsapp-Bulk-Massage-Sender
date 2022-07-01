@@ -63,7 +63,7 @@ class _WhatState extends State<What> {
 
 // var startWhatsup = await Process.start('cmd', ['']);
 //
-// startWhatsup.stdin.writeln('start whatsapp://send?phone=9647729379356^&text=hi');
+// startWhatsup.stdin.writeln('start whatsapp://send?phone=KEY OF UR COUNTRY -UR NUMBER ^&text=TEXT ');
 //
 // var snedenter = await Process.start('cscript.exe', ['C:/Users/plack/Desktop/1.vbs']);
 //
